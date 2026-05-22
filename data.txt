@@ -1,0 +1,10 @@
+1|expense|Food|450.00|2025-05-19|Lunch at cafe
+2|income|Salary|85000.00|2025-05-01|Monthly salary
+3|expense|Rent|20000.00|2025-05-05|May rent
+4|expense|Transport|800.00|2025-05-10|Uber to airport
+5|expense|Health|2500.00|2025-05-12|Doctor visit
+6|income|Freelance|15000.00|2025-05-15|Website project
+7|expense|Entertainment|1200.00|2025-05-17|Netflix and dinner
+8|expense|Food|300.00|2025-05-20|Breakfast
+9|expense|Shopping|3500.00|2025-05-18|Clothes
+10|income|Gift|5000.00|2025-05-20|Eid gift
