@@ -5,17 +5,29 @@
 
 using namespace std;
 
+// returns today's date as a string in YYYY-MM-DD format
 string getDate();
+// checks if amount is greater than zero
 bool   validateAmount(double a);
+// displays the main menu options
 void   displayMenu();
+// shows category list and returns selected category name
 string pickCategory(string type);
+// adds a new income or expense record to the array
 void   addRecord(string type);
+// prints all records in a formatted table
 void   viewAll();
+// filters and displays records by selected category
 void   viewByCategory();
+// calculates and displays income, expenses, balance and percentages
 void   summary();
+// filters and displays records for a specific month
 void   monthlyReport();
+// removes a record by ID and shifts array left
 void   deleteRecord();
+// writes all records to data.txt
 void   saveData();
+// reads and loads records from data.txt on startup
 void   loadData();
 
 struct Expense {
